@@ -1,0 +1,30 @@
+# scraper configuration
+
+global_settings:
+  max_workers: 3
+  default_rate_limit: 2.0
+  default_retries: 3
+  cache_enabled: false
+
+# tier 1 news scrapers (nigerian companies only)
+news_scrapers:
+  techcabal:
+    enabled: true
+    priority: 1
+    max_pages: 5
+    rate_limit: 1.0
+    reliability_score: 90
+
+  techpoint:
+    enabled: false
+    priority: 1
+    max_pages: 2
+    rate_limit: 1.0
+    reliability_score: 90
+
+  the_big_deal:
+    enabled: false
+    priority: 1
+    max_pages: 3
+    rate_limit: 3.0
+    reliability_score: 95

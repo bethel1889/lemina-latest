@@ -1,0 +1,126 @@
+[
+  {
+    "name": "ProDevs",
+    "sector": "saas",
+    "short_description": "As far as ProDevs knows, tech talent isn't lacking in Africa; the companies who need them just can't see them.",
+    "website": null,
+    "founders": [
+      "Faith Dike"
+    ],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/11/08/day-1-1000-prodevs/",
+    "funding": {
+      "company_name": "ProDevs",
+      "round_type": "seed",
+      "amount": "20000000",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2025-11-08",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Antler",
+    "sector": "fintech",
+    "short_description": "Antler, a global investment network that focuses on early-stage investments, officially kicked off its latest Lagos cohort on October 20.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/10/29/antlers-new-lagos-cohort-features-tc-battlefield-startups/"
+  },
+  {
+    "name": "MyDébboApp",
+    "sector": "healthtech",
+    "short_description": "MyDébboApp is a digital women-centred healthcare platform that uses AI to triage symptoms and guide users to the right care.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/10/27/when-the-doctor-wont-listen-to-you-mydebboapp-bets-it-will/"
+  },
+  {
+    "name": "Alami",
+    "sector": "fintech",
+    "short_description": "The LaunchPad is Alami Capital’s bid to address the undercapitalisation of women-owned startups in Africa.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/09/12/alami-capitals-launchpad-targets-funding-gap-for-african-women-led-startups/",
+    "funding": {
+      "company_name": "Alami",
+      "round_type": "seed",
+      "amount": "48000000",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2025-09-12",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Approovia",
+    "sector": "saas",
+    "short_description": "Approovia is taking on global giants like Microsoft, Oracle, and Salesforce with the launch of its Workspace Manager, a no-code AI platform.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/09/04/nigerias-approovia-targets-big-tech-with-no-code-ai-stack/",
+    "funding": {
+      "company_name": "Approovia",
+      "round_type": "seed",
+      "amount": null,
+      "currency": "usd",
+      "is_disclosed": false,
+      "announced_date": "2025-09-04",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "DigiTax",
+    "sector": "saas",
+    "short_description": "DigiTax, a pan-African e-invoicing firm, has secured technical approval from Nigeria’s Federal Inland Revenue Service (FIRS) to serve as an Access Point Provider and System Integrator.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/08/04/digitax-expands-to-nigeria/",
+    "funding": {
+      "company_name": "DigiTax",
+      "round_type": "seed",
+      "amount": "3300000.0",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2025-08-04",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Voice tech startup Intron",
+    "sector": "healthtech",
+    "short_description": "Intron, a Nigerian AI company that provides speech-to-text transcription tools for healthcare workers, is expanding beyond the health sector.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/06/30/intron-launches-new-ai-models/",
+    "funding": {
+      "company_name": "Voice tech startup Intron",
+      "round_type": "pre-seed",
+      "amount": "1600000.0",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2025-06-30",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Releaf",
+    "sector": "agritech",
+    "short_description": "Conservation and sustainable use of biomass have become a primary global strategy for reducing atmospheric carbon.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/06/11/releaf-earth-biochar-to-repair-soils-for-nigerian-farmers/"
+  }
+]

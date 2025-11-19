@@ -1,0 +1,8 @@
+
+
+#
+.env.local
+.env
+.env*
+venv
+CLAUDE.md

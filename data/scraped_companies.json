@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Flutterwave",
+    "sector": "Fintech",
+    "website": "https://flutterwave.com",
+    "description": "Payment infrastructure for Africa",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Paystack",
+    "sector": "Fintech",
+    "website": "https://paystack.com",
+    "description": "Modern online payments for Africa",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Kuda Bank",
+    "sector": "Fintech",
+    "website": "https://kuda.com",
+    "description": "Digital bank for Africans",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "OPay",
+    "sector": "Fintech",
+    "website": "https://opayweb.com",
+    "description": "Mobile money and payments",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Moniepoint",
+    "sector": "Fintech",
+    "website": "https://moniepoint.com",
+    "description": "All-in-one banking for businesses",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Piggyvest",
+    "sector": "Fintech",
+    "website": "https://piggyvest.com",
+    "description": "Save and invest with ease",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Carbon",
+    "sector": "Fintech",
+    "website": "https://getcarbon.co",
+    "description": "Digital financial services",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Interswitch",
+    "sector": "Fintech",
+    "website": "https://interswitch.com",
+    "description": "Payment processing and switching",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Cowrywise",
+    "sector": "Fintech",
+    "website": "https://cowrywise.com",
+    "description": "Automated wealth management",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Renmoney",
+    "sector": "Fintech",
+    "website": "https://renmoney.com",
+    "description": "Digital lending platform",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Jumia",
+    "sector": "E-commerce",
+    "website": "https://jumia.com.ng",
+    "description": "Online marketplace",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Konga",
+    "sector": "E-commerce",
+    "website": "https://konga.com",
+    "description": "E-commerce and logistics",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Jiji",
+    "sector": "E-commerce",
+    "website": "https://jiji.ng",
+    "description": "Classifieds marketplace",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Helium Health",
+    "sector": "Healthtech",
+    "website": "https://heliumhealth.com",
+    "description": "Healthcare technology platform",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "54gene",
+    "sector": "Healthtech",
+    "website": "https://54gene.com",
+    "description": "Health data science company",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "LifeBank",
+    "sector": "Healthtech",
+    "website": "https://lifebank.ng",
+    "description": "Medical supplies delivery",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "uLesson",
+    "sector": "Edtech",
+    "website": "https://ulesson.com",
+    "description": "Online learning platform",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Gradely",
+    "sector": "Edtech",
+    "website": "https://gradely.ng",
+    "description": "AI-powered learning platform",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "Farmcrowdy",
+    "sector": "Agritech",
+    "website": "https://farmcrowdy.com",
+    "description": "Digital agriculture platform",
+    "source": "Manual",
+    "source_url": null
+  },
+  {
+    "name": "ThriveAgric",
+    "sector": "Agritech",
+    "website": "https://thriveagric.com",
+    "description": "Agricultural financing",
+    "source": "Manual",
+    "source_url": null
+  }
+]

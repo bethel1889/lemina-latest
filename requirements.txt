@@ -1,0 +1,16 @@
+# http and scraping
+requests
+beautifulsoup4
+lxml
+
+# database
+supabase
+python-dotenv
+
+# data processing
+pyyaml
+python-dateutil
+
+# utilities
+retrying
+cachetools

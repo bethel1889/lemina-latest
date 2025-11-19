@@ -1,0 +1,370 @@
+[
+  {
+    "name": "ProDevs",
+    "sector": "saas",
+    "short_description": "As far as ProDevs knows, tech talent isn't lacking in Africa; the companies who need them just can't see them.",
+    "website": null,
+    "founders": [
+      "Faith Dike"
+    ],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/11/08/day-1-1000-prodevs/",
+    "funding": {
+      "company_name": "ProDevs",
+      "round_type": "seed",
+      "amount": "20000000",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2025-11-08",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Antler",
+    "sector": "fintech",
+    "short_description": "Antler, a global investment network that focuses on early-stage investments, officially kicked off its latest Lagos cohort on October 20.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/10/29/antlers-new-lagos-cohort-features-tc-battlefield-startups/"
+  },
+  {
+    "name": "MyDébboApp",
+    "sector": "healthtech",
+    "short_description": "MyDébboApp is a digital women-centred healthcare platform that uses AI to triage symptoms and guide users to the right care.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/10/27/when-the-doctor-wont-listen-to-you-mydebboapp-bets-it-will/"
+  },
+  {
+    "name": "Alami",
+    "sector": "fintech",
+    "short_description": "The LaunchPad is Alami Capital’s bid to address the undercapitalisation of women-owned startups in Africa.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/09/12/alami-capitals-launchpad-targets-funding-gap-for-african-women-led-startups/",
+    "funding": {
+      "company_name": "Alami",
+      "round_type": "seed",
+      "amount": "48000000",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2025-09-12",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Approovia",
+    "sector": "saas",
+    "short_description": "Approovia is taking on global giants like Microsoft, Oracle, and Salesforce with the launch of its Workspace Manager, a no-code AI platform.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/09/04/nigerias-approovia-targets-big-tech-with-no-code-ai-stack/",
+    "funding": {
+      "company_name": "Approovia",
+      "round_type": "seed",
+      "amount": null,
+      "currency": "usd",
+      "is_disclosed": false,
+      "announced_date": "2025-09-04",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "DigiTax",
+    "sector": "saas",
+    "short_description": "DigiTax, a pan-African e-invoicing firm, has secured technical approval from Nigeria’s Federal Inland Revenue Service (FIRS) to serve as an Access Point Provider and System Integrator.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/08/04/digitax-expands-to-nigeria/",
+    "funding": {
+      "company_name": "DigiTax",
+      "round_type": "seed",
+      "amount": "3300000.0",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2025-08-04",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Intron",
+    "sector": "healthtech",
+    "short_description": "Intron, a Nigerian AI company that provides speech-to-text transcription tools for healthcare workers, is expanding beyond the health sector.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/06/30/intron-launches-new-ai-models/",
+    "funding": {
+      "company_name": "Intron",
+      "round_type": "pre-seed",
+      "amount": "1600000.0",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2025-06-30",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Releaf",
+    "sector": "agritech",
+    "short_description": "Conservation and sustainable use of biomass have become a primary global strategy for reducing atmospheric carbon.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/06/11/releaf-earth-biochar-to-repair-soils-for-nigerian-farmers/"
+  },
+  {
+    "name": "Marasoft",
+    "sector": "fintech",
+    "short_description": "Marasoft, the fintech founded by Emmanuel Marakwe-Ogu, denies paying employees with suspected fraudulent funds but fails to share evidence.",
+    "website": null,
+    "founders": [
+      "Emmanuel Marakwe"
+    ],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2025/02/03/marasoft-denies-no-evidence/"
+  },
+  {
+    "name": "Tizeti",
+    "sector": "ecommerce",
+    "short_description": "Raising capital in naira will help Tizeti avoid the pressure of delivering VC-type returns in a slowing economy.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/12/13/tizeti-ngx-ipo/",
+    "funding": {
+      "company_name": "Tizeti",
+      "round_type": "series_a",
+      "amount": "469000000",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2024-12-13",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "MDaaS",
+    "sector": "healthtech",
+    "short_description": "MDaaS, a startup that operates diagnostic clinics, has launched its first clinic in Cameroon, marking its entry into Francophone Africa.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/11/11/mdaas-expands-into-cameroon/",
+    "funding": {
+      "company_name": "MDaaS",
+      "round_type": "seed",
+      "amount": "3000000",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2024-11-11",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Kuda",
+    "sector": "fintech",
+    "short_description": "Fintech compliance staff are in hot demand as Nigerian fintechs expand their compliance teams following the Central Bank ban in April.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/10/31/fintech-compliance-staff/"
+  },
+  {
+    "name": "PaidHR",
+    "sector": "fintech",
+    "short_description": "PaidHR, a Nigerian startup that helps businesses manage their HR functions, is in talks with investors to raise a $1.5 million seed round",
+    "website": null,
+    "founders": [
+      "Seye Bandele"
+    ],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/10/21/paidhr-to-raise-1-5million-seed-round/",
+    "funding": {
+      "company_name": "PaidHR",
+      "round_type": "seed",
+      "amount": "1500000.0",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2024-10-21",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Okra",
+    "sector": "fintech",
+    "short_description": "With Nebula, Okra will allow customers to pay cloud costs in local currency, a crucial selling point when companies are reducing USD exposure.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/10/07/okra-providing-affordable-alternatives-to-aws-and-azure/"
+  },
+  {
+    "name": "Seamfix",
+    "sector": "fintech",
+    "short_description": "Seamfix, a 17-year-old identity solutions startup, has raised $4.5 million in funding from Alitheia IDF, its first institutional investor.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/05/07/seamfix-raises-4-million/",
+    "funding": {
+      "company_name": "Seamfix",
+      "round_type": "seed",
+      "amount": "4500000.0",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2024-05-07",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Kuda",
+    "sector": "fintech",
+    "short_description": "Kuda Bank, Moniepoint, OPay and Palmpay have paused account opening for new customers following a directive from the CBN",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/04/29/exclusive-cbn-directs-four-fintechs-to-stop-onboarding/"
+  },
+  {
+    "name": "Flutterwave",
+    "sector": "fintech",
+    "short_description": "Flutterwave has appointed Dipo Fatokun, a former director at the Central Bank of Nigeria, as its new board chairman.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/03/14/flutterwave-appoints-former-cbn-director/"
+  },
+  {
+    "name": "Interswitch",
+    "sector": "fintech",
+    "short_description": "Interswitch has merged with M-Kudi, a mobile money provider, as it seeks to acquire a payment service bank license from the Central Bank.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/03/13/interswitch-mobile-money/"
+  },
+  {
+    "name": "Interswitch",
+    "sector": "fintech",
+    "short_description": "Interswitch will venture into Nigeria’s telco sector after acquiring a Tier 5 MVNO license for ₦500 million.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/03/12/interswitch-eyes-telecoms-mnvo-license/",
+    "funding": {
+      "company_name": "Interswitch",
+      "round_type": "seed",
+      "amount": "1000000",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2024-03-12",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Ibrahim",
+    "sector": "fintech",
+    "short_description": "Ibrahim Ibitade, the CEO of Leatherback, a cross-border payments startup that operates in seven countries, is ready to move from a dramatic episode with",
+    "website": null,
+    "founders": [
+      "Ibrahim Ibitade"
+    ],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/02/08/leatherback-ceo-sues-efcc/"
+  },
+  {
+    "name": "Zone",
+    "sector": "saas",
+    "short_description": "Zone, Africa’s first licenced blockchain payment infrastructure company, will launch a remittance product in 2025.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2024/02/01/zone-remittance-market/"
+  },
+  {
+    "name": "Chowdeck",
+    "sector": "logistics",
+    "short_description": "Chowdeck's CEO shares with TechCabal how the YC-backed Nigerian food delivery startup delivered food worth ₦1 billion to its customers in a month.",
+    "website": null,
+    "founders": [
+      "Femi Aluko"
+    ],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2023/11/03/chowdeck-1billion/",
+    "funding": {
+      "company_name": "Chowdeck",
+      "round_type": "seed",
+      "amount": "1200000.0",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2023-11-03",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "VIBRA",
+    "sector": "edtech",
+    "short_description": "As VIBRA shut down across it markets in Nigeria, Kenya and Ghana, staff were asked to resign or face termination.",
+    "website": null,
+    "founders": [
+      "Vincent Li",
+      "Africa Blockchain"
+    ],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2023/10/18/vibras-staff-told-to-resign-or-face-termination/",
+    "funding": {
+      "company_name": "VIBRA",
+      "round_type": "seed",
+      "amount": "6000000",
+      "currency": "ngn",
+      "is_disclosed": true,
+      "announced_date": "2023-10-18",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Stears",
+    "sector": "fintech",
+    "short_description": "Stears, a data and intelligence company, is pivoting from consumer-focused data solutions into an organization-focused intelligence company.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2023/10/04/stears-pivot-b2b/",
+    "funding": {
+      "company_name": "Stears",
+      "round_type": "seed",
+      "amount": "4000000",
+      "currency": "usd",
+      "is_disclosed": true,
+      "announced_date": "2023-10-04",
+      "lead_investors": [],
+      "participating_investors": []
+    }
+  },
+  {
+    "name": "Paystack",
+    "sector": "fintech",
+    "short_description": "Online payment giant, Paystack, launches Virtual Terminal, an attempt to expand further into offline payments as Nigeria's POS volume surges.",
+    "website": null,
+    "founders": [],
+    "source": "techcabal",
+    "source_url": "https://techcabal.com/2023/10/03/paystack-expands-offline/"
+  }
+]
